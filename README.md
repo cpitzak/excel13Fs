@@ -3,6 +3,8 @@
 ## About
 This exports 13F data from [aggregate13Fs](https://github.com/cpitzak/aggregate13Fs) mongo database to excel for easy filtering and pivoting.
 
+Every quarter runs from this tool will be posted at: [Guru Forms](http://guruforms.com)
+
 **Disclaimer: I take no responsibility for the correctness or use of this tool. Use it at your own risk.**
 
 ## Prerequisites
